@@ -1,0 +1,19 @@
+h1{
+  font-weight: 700;
+  font-size: 45px;
+  margin: 10px;
+  margin-bottom: 20px; 
+  text-align: center;
+}
+input{
+  width: 100%;
+}
+.item{
+  text-align: left;
+}
+.kgbutton{
+  width: 80px;
+}
+.kgrow{
+  margin: 7px 3px;
+}
